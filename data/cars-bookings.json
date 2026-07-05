@@ -1,6 +1,24 @@
 {
   "cars": [
     {
+      "_id": "car-1783249818019",
+      "id": "car-1783249818019",
+      "make": "",
+      "model": "",
+      "name": "",
+      "year": 0,
+      "category": "Sedan",
+      "seats": 4,
+      "transmission": "Automatic",
+      "fuelType": "Gasoline",
+      "mileage": 0,
+      "dailyRate": 0,
+      "price": 0,
+      "status": "available",
+      "image": "",
+      "description": ""
+    },
+    {
       "_id": "car-1783247365823",
       "id": "car-1783247365823",
       "make": "Ford",
